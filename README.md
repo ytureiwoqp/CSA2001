@@ -54,10 +54,7 @@ README.md → this file
 
 🚀 Setup
 
-1. Clone the repo
-
-git clone 
-cd 
+1. Download Code
 
 ---
 
